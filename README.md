@@ -1,104 +1,107 @@
-# 📊 Data Analytics with AI
+# Data Analytics with AI
 
-A collection of Data Analytics projects built using Python, Pandas, Data Visualization, Web Scraping, Financial Analytics, and AI-powered automation.
+A collection of end-to-end Data Analytics projects built using Python, SQL, Power BI, Web Scraping, and Automation techniques.
 
 ---
 
-## 🚀 Projects
+# Projects Included
 
-### 📈 Portfolio Report Building Automation
+## 1. Portfolio Report Building Automation
 
-An automated financial analytics project that analyzes portfolio data, generates visualizations, creates AI-powered insights, and produces professional reports.
+### Overview
+Automated portfolio analysis and reporting solution that processes stock market data and generates insightful visual reports for investment decision-making.
 
-#### Features
-
-- Portfolio Analysis
-- Asset Allocation Tracking
-- Current Stock Value Analysis
-- Interactive Visualizations
-- AI Generated Insights
-- Automated Reporting
-
-#### Technologies
-
+### Tools Used
 - Python
 - Pandas
 - NumPy
 - Plotly
-- Matplotlib
-- YFinance
-- Generative AI
+- Data Visualization
+
+### Features
+- Portfolio allocation analysis
+- Stock value tracking
+- Investment insights
+- Automated report generation
+- Interactive visualizations
 
 ---
 
-### 📱 Web Scraping Project
+## 2. Web Scraping Project
 
-A web scraping pipeline that extracts Flipkart 5G mobile data and converts unstructured web information into structured datasets for analytics.
+### Overview
+A web scraping solution developed to collect, process, and analyze data from websites for business intelligence and research purposes.
 
-#### Features
-
-- Product Data Extraction
-- Price Analysis
-- Customer Rating Collection
-- Technical Specification Extraction
-- CSV Dataset Generation
-
-#### Technologies
-
+### Tools Used
 - Python
-- Requests
 - BeautifulSoup
+- Requests
+- Pandas
+
+### Features
+- Automated data extraction
+- Data cleaning and transformation
+- CSV export
+- Structured data storage
+- Data analysis ready outputs
+
+---
+
+## 3. Customer Behavior Dashboard Project
+
+### Overview
+A customer analytics project designed to understand purchasing behavior, customer segments, subscription trends, and revenue performance using Python, SQL, and Power BI.
+
+### Tools Used
+- Python
 - Pandas
 - NumPy
+- SQL
+- Power BI
+- GitHub
+
+### Dashboard Highlights
+- Total Customers Analysis
+- Average Purchase Amount Tracking
+- Customer Rating Analysis
+- Revenue by Category
+- Sales by Category
+- Revenue by Age Group
+- Subscription Status Analysis
+- Interactive Dashboard Filters
+
+### Key Insights
+- Young Adults contribute the highest revenue.
+- Clothing category generates the highest sales.
+- Subscription adoption presents growth opportunities.
+- Customer ratings remain consistently positive.
+- Revenue concentration is strongest among loyal customers.
+
+### Business Recommendations
+- Improve subscription adoption.
+- Launch targeted marketing campaigns.
+- Strengthen customer loyalty programs.
+- Focus on high-performing product categories.
+- Optimize promotional strategies.
 
 ---
 
-## 🛠 Skills Demonstrated
+# Technologies Used
 
-- Data Analytics
-- Data Cleaning
-- Data Visualization
-- Financial Analytics
-- Business Intelligence
-- Web Scraping
-- Automation
-- AI Integration
-- Report Generation
-
----
-
-## 📂 Repository Structure
-
-```plaintext
-Data_Analytics_with_AI/
-│
-├── Portfolio_report_building_automation/
-│
-├── web_scraping_project/
-│
-└── README.md
-```
+- Python
+- SQL
+- Power BI
+- Pandas
+- NumPy
+- Plotly
+- BeautifulSoup
+- Requests
+- Git & GitHub
 
 ---
 
-## 👨‍💻 Author
+# Author
 
-**Chandra Purna Rao Nilagiri**
+**Chandu Nilagiri**
 
-B.Tech – Electronics and Communication Engineering
-
-### Areas of Interest
-
-- Data Analytics
-- Data Science
-- Machine Learning
-- Artificial Intelligence
-- Financial Analytics
-- Business Intelligence
-
-GitHub:
-https://github.com/chandunilagiri
-
----
-
-⭐ If you found these projects useful, consider giving this repository a star.
+Data Analytics | AI & ML | Python | SQL | Power BI
