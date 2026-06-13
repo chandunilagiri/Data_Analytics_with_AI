@@ -1,6 +1,6 @@
 # Data Analytics with AI
 
-A collection of end-to-end Data Analytics projects built using Python, SQL, Power BI, Web Scraping, and Automation techniques.
+A collection of Data Analytics projects developed using Python, SQL, Power BI, Automation, and Web Scraping techniques to solve real-world business problems.
 
 ---
 
@@ -9,14 +9,13 @@ A collection of end-to-end Data Analytics projects built using Python, SQL, Powe
 ## 1. Portfolio Report Building Automation
 
 ### Overview
-Automated portfolio analysis and reporting solution that processes stock market data and generates insightful visual reports for investment decision-making.
+An automated portfolio analysis and reporting system that processes stock market data and generates business-ready investment reports with interactive visualizations.
 
 ### Tools Used
 - Python
 - Pandas
 - NumPy
 - Plotly
-- Data Visualization
 
 ### Features
 - Portfolio allocation analysis
@@ -27,10 +26,46 @@ Automated portfolio analysis and reporting solution that processes stock market 
 
 ---
 
-## 2. Web Scraping Project
+## 2. Customer Behavior Dashboard Project
 
 ### Overview
-A web scraping solution developed to collect, process, and analyze data from websites for business intelligence and research purposes.
+A customer analytics solution built using Python, SQL, and Power BI to analyze customer purchasing behavior, subscription trends, demographics, and revenue performance.
+
+### Tools Used
+- Python
+- Pandas
+- NumPy
+- SQL
+- Power BI
+
+### Dashboard Highlights
+- Customer Segmentation
+- Revenue Analysis
+- Sales Analysis
+- Subscription Insights
+- Category Performance
+- Age Group Analysis
+- Interactive Filters
+
+### Key Insights
+- Young Adults generate the highest revenue.
+- Clothing category contributes maximum sales.
+- Subscription adoption has growth potential.
+- Customer ratings remain consistently positive.
+- Loyal customers drive significant business value.
+
+### Business Recommendations
+- Improve subscription adoption.
+- Strengthen customer loyalty programs.
+- Focus marketing on high-value customer groups.
+- Optimize promotional strategies.
+
+---
+
+## 3. Web Scraping Project
+
+### Overview
+A web scraping solution developed to collect and process data from websites for analysis and business intelligence purposes.
 
 ### Tools Used
 - Python
@@ -40,49 +75,10 @@ A web scraping solution developed to collect, process, and analyze data from web
 
 ### Features
 - Automated data extraction
-- Data cleaning and transformation
+- Data cleaning and preprocessing
 - CSV export
 - Structured data storage
-- Data analysis ready outputs
-
----
-
-## 3. Customer Behavior Dashboard Project
-
-### Overview
-A customer analytics project designed to understand purchasing behavior, customer segments, subscription trends, and revenue performance using Python, SQL, and Power BI.
-
-### Tools Used
-- Python
-- Pandas
-- NumPy
-- SQL
-- Power BI
-- GitHub
-
-### Dashboard Highlights
-- Total Customers Analysis
-- Average Purchase Amount Tracking
-- Customer Rating Analysis
-- Revenue by Category
-- Sales by Category
-- Revenue by Age Group
-- Subscription Status Analysis
-- Interactive Dashboard Filters
-
-### Key Insights
-- Young Adults contribute the highest revenue.
-- Clothing category generates the highest sales.
-- Subscription adoption presents growth opportunities.
-- Customer ratings remain consistently positive.
-- Revenue concentration is strongest among loyal customers.
-
-### Business Recommendations
-- Improve subscription adoption.
-- Launch targeted marketing campaigns.
-- Strengthen customer loyalty programs.
-- Focus on high-performing product categories.
-- Optimize promotional strategies.
+- Analysis-ready datasets
 
 ---
 
@@ -102,6 +98,6 @@ A customer analytics project designed to understand purchasing behavior, custome
 
 # Author
 
-**Chandu Nilagiri**
+## Chandu Nilagiri
 
-Data Analytics | AI & ML | Python | SQL | Power BI
+Data Analytics | AI & Machine Learning | Python | SQL | Power BI
